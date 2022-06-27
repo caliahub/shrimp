@@ -30,7 +30,7 @@ lxml==4.2.5
 MarkupSafe==1.1.0
 memory-profiler==0.55.0
 mysql-connector==2.2.9
-mysql-connector-python==8.0.13
+mysql-connector-python==8.0.14
 parsel==1.5.1
 post==2018.11.20
 protobuf==3.6.1
